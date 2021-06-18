@@ -2,7 +2,7 @@
 INSERT INTO publisher VALUES (1,'PHI','India');
 INSERT INTO publisher VALUES (2,'Harper','USA');
 INSERT INTO publisher VALUES (3,'GCP','USA');
-INSERT INTO publisher VALUES (4,'Avery','USA');
+INSERT INTO publisher VALUES (4,'Atomic Habits','USA');
 INSERT INTO publisher VALUES (5,'Del Rey','UK');
 INSERT INTO publisher VALUES (6,'Vintage','UK');
 
